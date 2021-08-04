@@ -49,25 +49,25 @@
 
             <ul class="py-4 sm:text-s pt-4 text-gray-400">
             <li class="pb-1">
-                <a href="/">Why we love tech</a>
+                <a href="/">Primeiros passos </a>
             </li>
 
             <li class="pb-1">
-                <a href="/">Why we love design</a>
+                <a href="/">Como ser freelancer</a>
             </li>
 
             <li class="pb-1">
-                <a href="/">Why to use Laravel</a>
+                <a href="/">Como ganhar dinheiro com programação</a>
             </li>
 
             <li class="pb-1">
-                <a href="/">Why PHP is the best </a>
+                <a href="/">O guia completo sobre empreendedorismo digital</a>
             </li>
             </ul>
         </div>
     </div>
 
-    <p class="w-25 w-4/5 pb-3 m-auto text-xs text-gray-100 pt-6">
+    <p class="w-25 w-4/5 flex items-center pb-3 m-auto text-xs text-gray-100 pt-6">
     Copyright 2021 BF Marketing. All Rights Reserved
 </p>
 </footer>
