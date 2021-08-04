@@ -2,10 +2,10 @@
 
 @section('content')
 
-<div style="background-image:url('https://img.freepik.com/fotos-gratis/linda-jovem-blogueira-de-pele-escura-positiva-digitando-em-um-laptop-generico-sorrindo-inspirando-se-enquanto-cria-novo-conteudo-para-seu-blog-de-viagens-sentada-na-mesa-com-um-diario-e-uma-caneca_343059-1535.jpg?size=626&ext=jpg&ga=GA1.1.2075113639.1618531200'); background-repeat:no-repeat; size:contain; height:570px; " class="grid-cols-1 m-auto">
+<div style="background-image:url('https://images.pexels.com/photos/5896686/pexels-photo-5896686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940'); background-repeat:no-repeat; background-size:cover; height:680px; " class="grid-cols-1 m-auto">
     <div class="flex text-gray-100 pt-30">
         <div class="m-auto pt-40 sm:m-auto w-4/5 block text-center">
-            <h1 class="sm:text-white text-5xl uppercase font-bold text-shadow-md pb-15">
+            <h1 class="sm:text-white text-5xl uppercase font-bold text-shadow-md pt-20 pb-15">
                 Aprenda sobre tecnologia de maneira totalmente gratuita!!
             </h1>
             <a href="/blog" class="text-center bg-gray-800 text-black-900 py-2 px-4 font-bold text-xl uppercase px-5 rounded-3xl">
