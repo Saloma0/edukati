@@ -2,7 +2,7 @@
 
 @section('content')
 
-<div style="background-image:url('https://img.freepik.com/fotos-gratis/linda-jovem-blogueira-de-pele-escura-positiva-digitando-em-um-laptop-generico-sorrindo-inspirando-se-enquanto-cria-novo-conteudo-para-seu-blog-de-viagens-sentada-na-mesa-com-um-diario-e-uma-caneca_343059-1535.jpg?size=626&ext=jpg&ga=GA1.1.2075113639.1618531200'); background-repeat:no-repeat; size:cover; height:570px; " class="grid-cols-1 m-auto">
+<div style="background-image:url('https://img.freepik.com/fotos-gratis/linda-jovem-blogueira-de-pele-escura-positiva-digitando-em-um-laptop-generico-sorrindo-inspirando-se-enquanto-cria-novo-conteudo-para-seu-blog-de-viagens-sentada-na-mesa-com-um-diario-e-uma-caneca_343059-1535.jpg?size=626&ext=jpg&ga=GA1.1.2075113639.1618531200'); background-repeat:no-repeat; size:contain; height:570px; " class="grid-cols-1 m-auto">
     <div class="flex text-gray-100 pt-30">
         <div class="m-auto pt-40 sm:m-auto w-4/5 block text-center">
             <h1 class="sm:text-white text-5xl uppercase font-bold text-shadow-md pb-15">
