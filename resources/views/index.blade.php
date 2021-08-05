@@ -43,8 +43,13 @@
 </div>
 
 <!-- Experiencias-->
-<div class="text-center p-15 bg-black text-white">
+<div class="text-center p-10 text-white" style="background-color:#17202A">
  <div class="sm:grid grid-cols-3">
+ 
+ <p style="@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');" 
+ class="pb-15 text-3xl font-extrabold text-gray-100">
+ ENCONTRE CONTEÚDOS SOBRE:</p>
+
 
  <div>
 
@@ -52,7 +57,7 @@
 
         <div style="background-image:url('https://images.pexels.com/photos/160107/pexels-photo-160107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940'); background-position:center;
          background-size:cover; background-repeat:no-repeat; position:relative;" class="rounded-full h-40 w-40">
-                <div style="position:absolute; top:0; bottom:0; left:0; right:0; background-color:rgba(0,0,0,0.1);">
+                <div style="position:absolute; top:0; bottom:0; left:0; right:0; background-color:rgba(23,32,42,0.1);">
 
                 </div>
         </div>
@@ -69,7 +74,7 @@
 
 <div style="background-image:url('/images/design-grafico.jpeg'); background-position:center;
          background-size:cover; background-repeat:no-repeat; position:relative;" class="rounded-full h-40 w-40">
-                <div style="position:absolute; top:0; bottom:0; left:0; right:0; background-color:rgba(0,0,0,0.1);">
+                <div style="position:absolute; top:0; bottom:0; left:0; right:0; background-color:rgba(23,32,42,0.1);">
 
                 </div>
         </div>
@@ -88,7 +93,7 @@
 
 <div style="background-image:url('https://images.pexels.com/photos/6483583/pexels-photo-6483583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940'); background-position:center;
          background-size:cover; background-repeat:no-repeat; position:relative;" class="rounded-full h-40 w-40">
-                <div style="position:absolute; top:0; bottom:0; left:0; right:0; background-color:rgba(0,0,0,0.1);">
+                <div style="position:absolute; top:0; bottom:0; left:0; right:0; background-color:rgba(23,32,42,0.1);">
 
                 </div>
         </div>
