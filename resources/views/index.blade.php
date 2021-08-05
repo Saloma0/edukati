@@ -65,6 +65,7 @@
 
 <div>
 
+<div class=" flex flex-col items-center ">
 
 <div style="background-image:url('/images/design-grafico.jpeg'); background-position:center;
          background-size:cover; background-repeat:no-repeat; position:relative;" class="rounded-full h-40 w-40">
@@ -77,8 +78,13 @@
 
 </div>
 
+</div>
+
 
 <div>
+
+<div class=" flex flex-col items-center ">
+
 
 <div style="background-image:url('https://images.pexels.com/photos/6483583/pexels-photo-6483583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940'); background-position:center;
          background-size:cover; background-repeat:no-repeat; position:relative;" class="rounded-full h-40 w-40">
