@@ -2,10 +2,11 @@
 
 @section('content')
 
-<div style="background-image:url('https://images.pexels.com/photos/5896686/pexels-photo-5896686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940'); background-repeat:no-repeat; background-size:cover; height:680px; " class="grid-cols-1 m-auto">
-    <div class="flex text-gray-100 pt-30">
-        <div class="m-auto pt-40 sm:m-auto w-4/5 block text-center">
-            <h1 class="sm:text-white text-5xl uppercase font-bold text-shadow-md pt-20 pb-15">
+<div style=" position:relative; background-image:url('https://images.pexels.com/photos/5896686/pexels-photo-5896686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940'); background-repeat:no-repeat; background-size:cover; height:680px; " class="grid-cols-1 m-auto">
+    
+    <div style="position:absolute; top:0; bottom:0; left:0; right:0; background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,1));"  class="flex text-gray-100 pt-20" >
+        <div class="m-auto sm:m-auto w-4/5 block text-center">
+            <h1 class="sm:text-white text-5xl uppercase font-bold text-shadow-md pb-15">
                 Aprenda sobre tecnologia de maneira totalmente gratuita!!
             </h1>
             <a href="/blog" class="text-center bg-gray-800 text-black-900 py-2 px-4 font-bold text-xl uppercase px-5 rounded-3xl">
@@ -49,9 +50,12 @@
 
     <div class=" flex flex-col items-center ">
 
-         <img src="https://images.pexels.com/photos/160107/pexels-photo-160107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-     class="rounded-full h-60 w-60">
-    
+        <div style="background-image:url('https://images.pexels.com/photos/160107/pexels-photo-160107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940'); background-position:center;
+         background-size:cover; background-repeat:no-repeat; position:relative;" class="rounded-full h-40 w-40">
+                <div style="position:absolute; top:0; bottom:0; left:0; right:0; background-color:rgba(0,0,0,0.1);">
+
+                </div>
+        </div>
         <p style="margin-top:10px;">Programação</p>
 
     </div>
@@ -61,24 +65,27 @@
 
 <div>
 
-<div class=" flex flex-col items-center ">
 
-     <img src="/images/design-grafico.jpeg"
- class="rounded-full h-60 w-60">
+<div style="background-image:url('/images/design-grafico.jpeg'); background-position:center;
+         background-size:cover; background-repeat:no-repeat; position:relative;" class="rounded-full h-40 w-40">
+                <div style="position:absolute; top:0; bottom:0; left:0; right:0; background-color:rgba(0,0,0,0.1);">
+
+                </div>
+        </div>
 
     <p style="margin-top:10px;">Design Gráfico</p>
-
-</div>
 
 </div>
 
 
 <div>
 
-<div class=" flex flex-col items-center ">
+<div style="background-image:url('https://images.pexels.com/photos/6483583/pexels-photo-6483583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940'); background-position:center;
+         background-size:cover; background-repeat:no-repeat; position:relative;" class="rounded-full h-40 w-40">
+                <div style="position:absolute; top:0; bottom:0; left:0; right:0; background-color:rgba(0,0,0,0.1);">
 
-     <img src="https://images.pexels.com/photos/6483583/pexels-photo-6483583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
- class="rounded-full h-60 w-60">
+                </div>
+        </div>
 
     <p style="margin-top:10px;">Marketing Digital</p>
 
