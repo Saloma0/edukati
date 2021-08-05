@@ -44,12 +44,15 @@
 
 <!-- Experiencias-->
 <div class="text-center p-10 text-white" style="background-color:#17202A">
- <div class="sm:grid grid-cols-3">
- 
- <p style="@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');" 
+
+<p style="@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');" 
  class="pb-15 text-3xl font-extrabold text-gray-100">
  ENCONTRE CONTEÚDOS SOBRE:</p>
 
+
+ <div class="sm:grid grid-cols-3">
+ 
+ 
 
  <div>
 
