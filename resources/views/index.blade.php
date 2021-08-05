@@ -43,7 +43,7 @@
 </div>
 
 <!-- Experiencias-->
-<div class="text-center p-17 bg-black text-white">
+<div class="text-center p-15 bg-black text-white">
  <div class="sm:grid grid-cols-3">
 
  <div>
